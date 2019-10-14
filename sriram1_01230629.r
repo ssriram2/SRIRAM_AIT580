@@ -5,7 +5,7 @@
 
 rm(list=ls())
 
-data <- read.csv("~/Desktop/EmployeeAttrition.csv")
+data <- read.csv("./EmployeeAttrition.csv")
 
 # this is just for testing to use "print" statement.
 print(data[1,])

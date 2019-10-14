@@ -7,7 +7,7 @@
 ## Part 2 acme.csv file
 rm(list=ls())
 library(ggplot2)
-data <- read.csv("~/Desktop/Acme.csv")
+data <- read.csv("./Acme.csv")
 
 # Question: Use Acme.csv and write R code to find the following: 
 
