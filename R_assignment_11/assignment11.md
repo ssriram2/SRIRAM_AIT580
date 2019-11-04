@@ -3,7 +3,7 @@
 
 # Assignment 11 Task1
 
-## Question 1: Find one example of distortion or unnecessary detail in a visualization, explain the problem and suggest a solution 
+## Question 1: Find one example of distortion or unnecessary detail in a visualization, explain the problem and suggest a solution [1]
 
 ## Distorted Graph: 
 
@@ -20,7 +20,7 @@ To overcome this problem, i thought of using a bar graph with employee changes o
 
 ## Question2 : Find one example of misleading interpretation, explain the problem and suggest a solution 
 
-## Misleading graph
+## Misleading graph[2]
 
  The misleading graph was taken from Konstant Infosolutions website.This website states that the usage of applications in the mobile phone have increased from 2015 to 2019.
 
