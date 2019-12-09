@@ -8,9 +8,9 @@ url <- "https://nytimes.com"
 webpage <- read_html(url)
 
 # Just sample code. 
-titles <- html_nodes(webpage, "div h2")
-without_tags <- gsub("<.*?>", "", titles) 
-print(without_tags)
+#titles <- html_nodes(webpage, "div h2")
+#without_tags <- gsub("<.*?>", "", titles) 
+#print(without_tags)
 
 # Assignment 15 Task 1: write scripts that extract "titles" and "news summary" of articles out of the scrapped data. 
 # Then, print them out using "print()" statement. 
